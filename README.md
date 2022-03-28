@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jacob but I go by Alsaahir which is Arabic for 'The Magicain'
-- 👀 I’m interested in python and django projects
-- 🌱 I’m currently learning more about how django really works
-- 💞️ I’m looking to collaborate on a real world django web-app with fellow nerds within or out side Zambia. Doesn't really matter.
+- 👀 I’m mostly interested in python and django projects
+- 🌱 I’m currently an ALX-SE Student
+- 💞️ I’m looking forward to become a great full stack software engineer.
 - 📫 You can whatsapp me on +260962717259
 
 <!---
