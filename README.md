@@ -2,7 +2,7 @@
 - 👀 I’m mostly interested in python and django projects
 - 🌱 I’m currently an ALX-SE Student
 - 💞️ I’m looking forward to become a great full stack software engineer.
-- 📫 You can whatsapp me on +260962717259
+- 📫 You can get through to me using my email jacobwilsonpmwale@gmail.com
 
 <!---
 Alsaahir/Alsaahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
