@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jacob but I go by Alsaahir which is Arabic for 'The Magicain'
+- 👋 Hi, I’m Jacob but I go by Alsaahir which is Arabic for 'Man of Mystries' or 'Magicain'
 - 👀 I’m mostly interested in python and django projects
 - 🌱 I’m currently a backend developer at Baobabpad
 - 💞️ I’m looking forward to become a great full stack software engineer.
